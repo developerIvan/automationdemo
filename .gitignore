@@ -1,0 +1,4 @@
+#Ingoring grunt dependencies and protractor configuration files
+/node_modules/
+#Ingoring specific files
+package.json
